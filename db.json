@@ -44,11 +44,6 @@
     "participantId": 9,
     "attendeeEmailAddress": "field_dcmanager@grr.la",
     "createDateTime": "2018-07-12T04:58:29Z"
-  },
-  {
-    "participantId": 10,
-    "attendeeEmailAddress": "headquarters@grr.la",
-    "createDateTime": "2019-02-16T19:49:58Z"
   }
 ]
 }
