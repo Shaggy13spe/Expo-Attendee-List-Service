@@ -1,4 +1,8 @@
-,
+  {
+    "participantId": 1,
+    "attendeeEmailAddress": "storeowner_company@grr.la",
+    "createDateTime": "2018-08-28T03:36:17Z"
+  },
   {
     "participantId": 2,
     "attendeeEmailAddress": "storeowner@grr.la",
