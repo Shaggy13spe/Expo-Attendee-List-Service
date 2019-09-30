@@ -2,48 +2,8 @@
   "participant": [
   {
     "participantId": 1,
-    "attendeeEmailAddress": "storeowner_company@grr.la",
+    "attendeeEmailAddress": "s7708d@yahoo.com",
     "createDateTime": "2019-03-05T12:43:51Z"
-  },
-  {
-    "participantId": 2,
-    "attendeeEmailAddress": "storeowner@grr.la",
-    "createDateTime": "2018-08-28T03:36:17Z"
-  },
-  {
-    "participantId": 3,
-    "attendeeEmailAddress": "dealercustomer@grr.la",
-    "createDateTime": "2019-06-16T13:41:45Z"
-  },
-  {
-    "participantId": 4,
-    "attendeeEmailAddress": "vendor@grr.la",
-    "createDateTime": "2018-11-06T05:50:05Z"
-  },
-  {
-    "participantId": 5,
-    "attendeeEmailAddress": "field_reporting@grr.la",
-    "createDateTime": "2018-12-16T14:32:44Z"
-  },
-  {
-    "participantId": 6,
-    "attendeeEmailAddress": "field_approver@grr.la",
-    "createDateTime": "2018-10-21T16:24:28Z"
-  },
-  {
-    "participantId": 7,
-    "attendeeEmailAddress": "field_districtmanager@grr.la",
-    "createDateTime": "2019-03-17T20:01:49Z"
-  },
-  {
-    "participantId": 8,
-    "attendeeEmailAddress": "field_divisionmanager@grr.la",
-    "createDateTime": "2018-11-30T15:05:36Z"
-  },
-  {
-    "participantId": 9,
-    "attendeeEmailAddress": "field_dcmanager@grr.la",
-    "createDateTime": "2018-07-12T04:58:29Z"
   }
 ]
 }
