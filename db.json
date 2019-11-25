@@ -2,17 +2,7 @@
   "participant": [
   {
     "participantId": 1,
-    "attendeeEmailAddress": "DBSUser1@sharklasers.com",
-    "createDateTime": "2019-11-18T12:43:51Z"
-  },
-  {
-    "participantId": 2,
-    "attendeeEmailAddress": "DBSUser2@sharklasers.com",
-    "createDateTime": "2019-11-18T12:43:51Z"
-  },
-  {
-    "participantId": 3,
-    "attendeeEmailAddress": "DBSUser3@sharklasers.com",
+    "attendeeEmailAddress": "deletethisuser@sharklasers.com",
     "createDateTime": "2019-11-18T12:43:51Z"
   }
 ]
