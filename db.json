@@ -2,17 +2,17 @@
   "participant": [
   {
     "participantId": 1,
-    "attendeeEmailAddress": "ProdDBSStoreOwner@sharklasers.com",
+    "attendeeEmailAddress": "ProdDBSSales1@sharklasers.com",
     "createDateTime": "2019-11-18T12:43:51Z"
   },
   {
     "participantId": 2,
-    "attendeeEmailAddress": "ProdDBSJobber@sharklasers.com",
+    "attendeeEmailAddress": "ProdDBSSales2@sharklasers.com",
     "createDateTime": "2019-11-18T12:43:51Z"
   },
   {
     "participantId": 3,
-    "attendeeEmailAddress": "ProdDBSDealerCustomer@sharklasers.com",
+    "attendeeEmailAddress": "ProdDBSSales2@sharklasers.com",
     "createDateTime": "2019-11-18T12:43:51Z"
   }
 ]
