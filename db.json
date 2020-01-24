@@ -2,8 +2,10 @@
   "participant": [
   {
     "participantId": 1,
-    "attendeeEmailAddress": "ernest_lai@genpt.com",
-    "createDateTime": "2019-11-18T12:43:51Z"
+    "email": "ernest_lai@genpt.com",
+    "insertDT": "2019-11-18T12:43:51Z",
+    "partyID" : 1,
+    "isPrimary": "1"
   }
 ]
 }
