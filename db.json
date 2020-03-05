@@ -1,44 +1,9 @@
 {
   "participant": [
   {
-    "ParticipantId": 1196746,
-    "InsertDT": "2020-02-05T13:16:42.227",
-    "Email": "Gerald_Fric@genpt.com",
-    "PartyID": 922504,
-    "IsPrimary": 1
-  },
-  {
-    "ParticipantId": 1196743,
-    "InsertDT": "2020-02-05T13:16:33.137",
-    "Email": "Michael_McNamee@genpt.com",
-    "PartyID": 922501,
-    "IsPrimary": 1
-  },
-  {
-    "ParticipantId": 1196748,
-    "InsertDT": "2020-02-05T13:16:48.113",
-    "Email": "terry_ramsey@genpt.com",
-    "PartyID": 922506,
-    "IsPrimary": 1
-  },
-  {
-    "ParticipantId": 9000001,
+    "ParticipantId": 1196845,
     "InsertDT": "2020-02-05T13:21:51.937",
-    "Email": "chad_large@genpt.com",
-    "PartyID": 922601,
-    "IsPrimary": 1
-  },
-  {
-    "ParticipantId": 9000002,
-    "InsertDT": "2020-02-05T13:21:51.937",
-    "Email": "mark_ziegler@genpt.com",
-    "PartyID": 922601,
-    "IsPrimary": 1
-  },
-  {
-    "ParticipantId": 9000003,
-    "InsertDT": "2020-02-05T13:21:51.937",
-    "Email": "darren_schaufenbuel@genpt.com",
+    "Email": "tony_dsouza@genpt.com",
     "PartyID": 922601,
     "IsPrimary": 1
   }
