@@ -1,24 +1,10 @@
 {
   "participant": [
   {
-    "ParticipantId": 9990000,
+    "ParticipantId": 9990003,
     "InsertDT": "2020-02-05T13:21:51.937",
-    "Email": "tonylewisdsouza@gmail.com",
+    "Email": "shaggy13spe@gmail.com",
     "PartyID": 999999,
-    "IsPrimary": 1
-  },
-  {
-    "ParticipantId": 9990001,
-    "InsertDT": "2020-02-04T15:47:04.663",
-    "Email": "michael_morrison@genpt.com",
-    "PartyID": 999998,
-    "IsPrimary": 1
-  },
-  {
-    "ParticipantId": 1196518,
-    "InsertDT": "2020-02-05T08:39:12.85",
-    "Email": "john.dewitt@gmail.com",
-    "PartyID": 922341,
     "IsPrimary": 1
   }
 ]
