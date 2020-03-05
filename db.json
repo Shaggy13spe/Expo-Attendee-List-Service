@@ -6,6 +6,20 @@
     "Email": "tony_dsouza@genpt.com",
     "PartyID": 922601,
     "IsPrimary": 1
+  },
+  {
+    "ParticipantId": 1196343,
+    "InsertDT": "2020-02-04T15:47:04.663",
+    "Email": "michael.morrison@daugherty.com",
+    "PartyID": 922251,
+    "IsPrimary": 1
+  },
+  {
+    "ParticipantId": 1196325,
+    "InsertDT": "2020-02-04T15:19:42.213",
+    "Email": "bronson.lane@daugherty.com",
+    "PartyID": 922236,
+    "IsPrimary": 1
   }
 ]
 }
