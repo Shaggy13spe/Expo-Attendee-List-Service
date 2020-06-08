@@ -1,39 +1,11 @@
 {
   "participant": [
   {
-    "ParticipantId": 1168870,
+    "ParticipantId": 999999,
     "InsertDT": "2020-01-09T15:08:34.353",
-    "Email": "EHERRING@HERRINGMOTOR.COM",
+    "Email": "mmorrison@mhmsystems.com",
     "PartyID": 894451,
-    "IsPrimary": 0
-  },
-  {
-    "ParticipantId": 1187452,
-    "InsertDT": "2020-01-24T12:13:23.637",
-    "Email": "db1026@verizon.net",
-    "PartyID": 894456,
-    "IsPrimary": 0
-  },
-  {
-    "ParticipantId": 1187454,
-    "InsertDT": "2020-01-24T12:14:27.753",
-    "Email": "rlyons2487@gmail.com",
-    "PartyID": 894456,
-    "IsPrimary": 0
-  },
-  {
-    "ParticipantId": 1187456,
-    "InsertDT": "2020-01-24T12:15:13.433",
-    "Email": "tlyons87@live.com",
-    "PartyID": 894456,
-    "IsPrimary": 0
-  },
-  {
-    "ParticipantId": 1203265,
-    "InsertDT": "2020-02-21T11:35:36.04",
-    "Email": "dgrills@convenienceretailing.net",
-    "PartyID": 924710,
-    "IsPrimary": 0
+    "IsPrimary": 1
   }
 ]
 }
